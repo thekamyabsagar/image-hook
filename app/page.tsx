@@ -192,7 +192,7 @@ export default function ImageUpload() {
           {/* Webhook Info */}
           <div className="webhook-info">
             <p className="webhook-label"><strong>Webhook URL:</strong></p>
-            <p className="webhook-url">https://sagarn8n.codes/webhook-test/image-analysis</p>
+            <p className="webhook-url"></p>
           </div>
         </div>
       </div>
